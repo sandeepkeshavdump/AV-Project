@@ -54,7 +54,7 @@ The GitHub Actions workflow will run the following steps:
 - Checkout the code from the repository
 - Build the Docker image
 - Run the Docker container
-- Run tests
+- Run test
 
 ## Continuous Deployment (CD)
 
